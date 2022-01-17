@@ -1,5 +1,5 @@
 # AccessMap
-Just a access.log parser, to generate a world map location
+Just a access.log parser, to generate a world map location  
 ⚠️ The code is ugly, it's just a draft!
 
 ![Screenshot_3](https://user-images.githubusercontent.com/29162548/149685904-8f93a13f-a87f-4734-94fb-59e14b6fa67a.png)
